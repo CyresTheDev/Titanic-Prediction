@@ -17,6 +17,7 @@ our features:
 10. Fare
 11. Cabin
 12. Embarked
+
 **my main way for cleaning this data is in Logistic-Regression.ipynb.**
 
 and in other files i just use my final data frame to make progress faster
