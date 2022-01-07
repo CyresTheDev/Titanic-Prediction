@@ -1,4 +1,6 @@
 # Titanic-Prediction
+
+## according to kaggle ***"This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works."***
 you know kaggle titanic competition right! in this project i want to solve it with multiple ways, such as knn, SVM and Logistic Regression
 
 ## fisrt algorithm is logistic regression.
