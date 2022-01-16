@@ -26,4 +26,4 @@ and in other files i just use my final data frame to make progress faster
 
 ***the best result i got in kaggle competition was with a svm model***
 
-### ***I added a Simple Deep learning model.dataframes where ready and i cleaned them before.***
+### ***I added a Simple Deep learning model.dataframes where ready and i cleaned them before.(with two hidden layers)***
